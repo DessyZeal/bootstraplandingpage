@@ -1,0 +1,23 @@
+.navbar-brand{
+    color: #f3125a;
+    font-weight: 800;
+}
+.nav-link{
+    color: #f3125a;
+    font-weight: 600;
+    margin-left: 30px;
+}
+.wrapper{
+    margin: 50px auto;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 0 40px 2px rgb(37,73,214,0.18 );
+}
+.feature-box{
+    padding: 30px;
+}
+.feature-box h1{
+    margin-top: 20px;
+    color: #f3125a;
+}
